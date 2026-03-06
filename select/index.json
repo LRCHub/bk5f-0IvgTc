@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "溺愛",
+  "base_artist": "berry meet",
+  "createdAt": "2026-03-06T14:15:32.434091Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "溺愛",
+      "artist": "Hins Cheung",
+      "has_synced": false,
+      "path": "select/01_溺愛_Hins_Cheung.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "溺愛",
+      "artist": "張敬軒",
+      "has_synced": false,
+      "path": "select/02_溺愛_張敬軒.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "溺愛",
+      "artist": "berry meet",
+      "has_synced": false,
+      "path": "select/pl_01_溺愛_berry_meet.txt"
+    }
+  ]
+}
