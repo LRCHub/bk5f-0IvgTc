@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "溺愛",
   "base_artist": "berry meet",
-  "createdAt": "2026-03-06T14:15:32.434091Z",
+  "createdAt": "2026-03-28T00:55:22.837477Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "berry meet",
       "has_synced": false,
       "path": "select/pl_01_溺愛_berry_meet.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "溺愛",
+      "artist": "berry meet",
+      "has_synced": false,
+      "path": "select/localdb_01_溺愛_berry_meet.txt",
+      "repo_name": "bk5f-0IvgTc"
     }
   ]
 }
